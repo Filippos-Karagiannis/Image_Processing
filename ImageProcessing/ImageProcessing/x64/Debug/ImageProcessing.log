@@ -1,0 +1,23 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  Filters.cpp
+  ImageProcessing.cpp
+C:\Users\gavra\source\repos\ImageProcessing\ImageProcessing\Filters.h(274,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\gavra\source\repos\ImageProcessing\ImageProcessing\Filters.h(285,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\gavra\source\repos\ImageProcessing\ImageProcessing\Filters.h(286,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\gavra\source\repos\ImageProcessing\ImageProcessing\Filters.h(287,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\gavra\source\repos\ImageProcessing\ImageProcessing\Filters.h(342,74): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\gavra\source\repos\ImageProcessing\ImageProcessing\Filters.h(343,76): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\gavra\source\repos\ImageProcessing\ImageProcessing\Filters.h(344,75): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\gavra\source\repos\ImageProcessing\ImageProcessing\Filters.h(363,84): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\gavra\source\repos\ImageProcessing\ImageProcessing\Filters.h(419,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\gavra\source\repos\ImageProcessing\ImageProcessing\Filters.h(427,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\gavra\source\repos\ImageProcessing\ImageProcessing\Filters.h(427,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\gavra\source\repos\ImageProcessing\ImageProcessing\Filters.h(427,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\gavra\source\repos\ImageProcessing\ImageProcessing\Filters.h(446,82): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\gavra\source\repos\ImageProcessing\ImageProcessing\Filters.h(540,9): warning C4101: 'pixel': unreferenced local variable
+C:\Users\gavra\source\repos\ImageProcessing\ImageProcessing\Filters.h(561,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ImageProcessing.vcxproj -> C:\Users\gavra\source\repos\ImageProcessing\x64\Debug\ImageProcessing.exe

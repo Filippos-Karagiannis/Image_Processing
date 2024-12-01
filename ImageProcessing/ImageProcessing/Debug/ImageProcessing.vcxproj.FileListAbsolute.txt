@@ -1,0 +1,9 @@
+C:\Users\gavra\source\repos\ImageProcessing\ImageProcessing\Debug\ImageProcessing.vcxprojAssemblyReference.cache
+C:\Users\gavra\source\repos\ImageProcessing\ImageProcessing\Debug\ImageProcessing.Filters.resources
+C:\Users\gavra\source\repos\ImageProcessing\ImageProcessing\Debug\ImageProcessing.vcxproj.GenerateResource.cache
+C:\Users\gavra\Desktop\ImageProcessing\ImageProcessing\Debug\ImageProcessing.vcxprojAssemblyReference.cache
+C:\Users\gavra\Desktop\ImageProcessing\ImageProcessing\Debug\ImageProcessing.Filters.resources
+C:\Users\gavra\Desktop\ImageProcessing\ImageProcessing\Debug\ImageProcessing.vcxproj.GenerateResource.cache
+C:\Users\f.karagiannis\Desktop\ImageProcessing\ImageProcessing\Debug\ImageProcessing.vcxprojAssemblyReference.cache
+C:\Users\f.karagiannis\Desktop\ImageProcessing\ImageProcessing\Debug\ImageProcessing.Filters.resources
+C:\Users\f.karagiannis\Desktop\ImageProcessing\ImageProcessing\Debug\ImageProcessing.vcxproj.GenerateResource.cache

@@ -1,0 +1,3 @@
+C:\Users\f.karagiannis\Desktop\ImageProcessing\ImageProcessing\x64\Release\ImageProcessing.vcxprojAssemblyReference.cache
+C:\Users\f.karagiannis\Desktop\ImageProcessing\ImageProcessing\x64\Release\ImageProcessing.Filters.resources
+C:\Users\f.karagiannis\Desktop\ImageProcessing\ImageProcessing\x64\Release\ImageProcessing.vcxproj.GenerateResource.cache

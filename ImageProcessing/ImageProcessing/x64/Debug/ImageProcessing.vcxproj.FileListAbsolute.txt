@@ -1,0 +1,2 @@
+C:\Users\gavra\source\repos\ImageProcessing\ImageProcessing\x64\Debug\ImageProcessing.Filters.resources
+C:\Users\gavra\source\repos\ImageProcessing\ImageProcessing\x64\Debug\ImageProcessing.vcxproj.GenerateResource.cache
